@@ -1,0 +1,16 @@
+$black-night:#161616;
+$white:#FFFFFF;
+$yellow:#FDB913;
+
+
+
+button{
+            background-color: $black-night;
+            color: $white;
+            width: 160px;
+            border: none;
+            &:hover{
+                background-color: red;
+                
+            }
+}
